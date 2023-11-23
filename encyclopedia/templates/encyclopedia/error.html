@@ -1,0 +1,13 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+    Encyclopedia
+{% endblock %}
+
+{% block body %}
+    <h1>Oops!</h1>
+    <hr>  <!-- Added line of separate -->
+    <p>{{ message }}</p>
+    <br>
+    <a href="{% url 'index' %}" class="btn btn-primary">Back to Home</a>
+{% endblock %}
