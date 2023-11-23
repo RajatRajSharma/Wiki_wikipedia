@@ -1,12 +1,17 @@
-# Wiki_wikipedia
-
-🚀 **Big Announcement!** 🚀  
+# 🚀 Wiki_wikipedia 🌐
+ 
 Thrilled to unveil my latest solo project – the CS50 Wiki! 🌐✨  
 Dive into the world of knowledge with this Django-powered endeavor that captures the charm of Wikipedia, all wrapped in a sleek and user-friendly design. 🚀📚
 
 ## Overview
 
 📚 Explore a dynamic Django-powered Wiki platform that stores diverse pages and blogs using markdown files, akin to Wikipedia. Contribute your own content, seamlessly search for existing information, and experience collaborative knowledge-sharing with ease. 💻🌐
+
+## YouTube Tutorial
+
+[![YouTube Tutorial](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/239px-YouTube_full-color_icon_%282017%29.svg.png)](https://www.youtube.com/watch?v=b-4kOQwNfUM&t=7s)
+
+Watch the YouTube tutorial to learn how to set up and use this project. The tutorial provides a step-by-step guide on running the application and managing the Wiki.
 
 ## Screenshots
 
@@ -18,12 +23,6 @@ Dive into the world of knowledge with this Django-powered endeavor that captures
 
 ### New Blog Creation
 ![New Blog Creation](wiki/CS50W_P1_blog_create.png)
-
-## YouTube Tutorial
-
-[![YouTube Tutorial](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/239px-YouTube_full-color_icon_%282017%29.svg.png)](https://www.youtube.com/watch?v=b-4kOQwNfUM&t=7s)
-
-Watch the YouTube tutorial to learn how to set up and use this project. The tutorial provides a step-by-step guide on running the application and managing the Wiki.
 
 ## How to Use
 
